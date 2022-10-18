@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "restaurantName": "Burger King",
+      "description":
+          "The original Home of the Whopper.",
+      "stars": 4,
+      "distance": 1.8,
+      "time": 32,
+      "img": "assets/image/restaurant1.png",
+      "availability": "Normal",
+      "comments": 1287,
+      "menu-items": 5,
+      "products": [
+        {
+          "id": 11,
+          "name": "Big King",
+          "description":
+              "Dos carnes a la parrilla, queso amarillo, cebolla crujiente, pepinillos y salsa agridulce.",
+          "price": 159,
+          "stars": 4,
+          "img": "assets/image/burger0.png",
+          "type": "Burger",
+          "typeId": 1
+        },
+        {
+          "id": 12,
+          "name": "Whopper",
+          "description":
+              "Ahora nuestra WHOPPER® lleva MÁS carne de res para que disfrutes más de nuestro sabor a la parrilla.",
+          "price": 119,
+          "stars": 3,
+          "img": "assets/image/burger1.png",
+          "type": "Burger",
+          "typeId": 2
+        },
+        {
+          "id": 13,
+          "name": "Bacon King",
+          "description":
+              "Dos carnes de res a la parrilla, cubiertas con una porción abundante de crujiente tocino, queso americano, cátsup y cremosa mayonesa.",
+          "price": 139,
+          "stars": 5,
+          "img": "assets/image/burger2.png",
+          "type": "Burger",
+          "typeId": 3
+        },
+        {
+          "id": 14,
+          "name": "Guacamole King",
+          "description":
+              "Doble carne a la parrilla, cremoso guacamole, queso Monterrey, tocino y cebollitas crujientes.",
+          "price": 139,
+          "stars": 5,
+          "img": "assets/image/burger4.png",
+          "type": "Burger",
+          "typeId": 4
+        },
+        {
+          "id": 15,
+          "name": "X-treme",
+          "description":
+              "Dos carnes de res a la parrilla, preparadas con jugosos tomates, salsa especial X-treme, mayonesa, pepinillos, cebollas.",
+          "price": 149,
+          "stars": 3,
+          "img": "assets/image/burger5.png",
+          "type": "Burger",
+          "typeId": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "restaurantName": "Tim Hortons",
+      "description":
+          "Canadian multinational fast food restaurant chain.",
+      "stars": 2,
+      "distance": 3.6,
+      "time": 14,
+      "img": "assets/image/restaurant2.png",
+      "availability": "Bussy",
+      "comments": 352,
+      "menu-items": 5,
+      "products": [
+        {
+          "id": 11,
+          "name": "Caramel Macchiato",
+          "description":
+              "Dulce pero intenso, con un shot de café espresso, un toque de vainilla, salsa de caramelo y hielo.",
+          "price": 69,
+          "stars": 4,
+          "img": "assets/image/tim1.png",
+          "type": "Coffee",
+          "typeId": 1
+        },
+        {
+          "id": 12,
+          "name": "Frappé Oreo",
+          "description":
+              "Cremosa e irresistible bebida frappé con galleta Oreo®, mezclado con crema y un topping de crema batida.",
+          "price": 75,
+          "stars": 5,
+          "img": "assets/image/tim2.png",
+          "type": "Coffee",
+          "typeId": 2
+        },
+        {
+          "id": 13,
+          "name": "Timbits",
+          "description":
+              "Paquete de 10 de nuestros originales Timbits® recién horneados surtidos.",
+          "price": 85,
+          "stars": 3,
+          "img": "assets/image/tim3.png",
+          "type": "Snack",
+          "typeId": 3
+        },
+        {
+          "id": 14,
+          "name": "6-Pack Panadería",
+          "description":
+              "Paquete de 6 piezas de toda nuestra panadería a elección.",
+          "price": 155,
+          "stars": 5,
+          "img": "assets/image/tim4.png",
+          "type": "Snack",
+          "typeId": 4
+        },
+        {
+          "id": 15,
+          "name": "Bolsa de Café",
+          "description":
+              "300 gramos de nuestro clásico café Original, Mexicano y Dark Roast en grano o molido para disfrutar en tu hogar.",
+          "price": 193,
+          "stars": 2,
+          "img": "assets/image/tim5.png",
+          "type": "Coffee",
+          "typeId": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "restaurantName": "Super Salads",
+      "description":
+          "Una opción 100% natural, más saludable y super refrescante.",
+      "stars": 3,
+      "distance": 4.2,
+      "time": 23,
+      "img": "assets/image/restaurant3.png",
+      "availability": "Normal",
+      "comments": 906,
+      "menu-items": 5,
+      "products": [
+        {
+          "id": 11,
+          "name": "Hawaiian Citric",
+          "description":
+              "Ensalada con pollo al coco, lechuga, mandarina, arándanos, tomate, bolitas de queso con perejil y cacahuate tostado, con aderezo raspberry",
+          "price": 169,
+          "stars": 4,
+          "img": "assets/image/super1.png",
+          "type": "Salad",
+          "typeId": 1
+        },
+        {
+          "id": 12,
+          "name": "Chicken Bowl",
+          "description":
+              "Brown rice y quinoa, pollo thai, espinaca, ajonjolí, cacahuate tostado, cebollín, salsa sweet chili y aderezo mango - sriracha.",
+          "price": 194,
+          "stars": 5,
+          "img": "assets/image/super2.png",
+          "type": "Bowl",
+          "typeId": 2
+        },
+        {
+          "id": 13,
+          "name": "Grilled Pomodoro",
+          "description":
+              "Sándwich en pan multigrano, pollo al grill, queso provolone, tomate deshidratado, espinaca baby, albahaca, mantequilla, ghee con ajo y romero.",
+          "price": 174,
+          "stars": 3,
+          "img": "assets/image/super3.png",
+          "type": "Sandwich",
+          "typeId": 3
+        },
+        {
+          "id": 14,
+          "name": "Pita Buffalo",
+          "description":
+              "Pita con pollo buffalo con tocino, mix de queso cheddar y queso gouda con blue cheese y cebollin.",
+          "price": 189,
+          "stars": 5,
+          "img": "assets/image/super4.png",
+          "type": "Sandwich",
+          "typeId": 4
+        },
+        {
+          "id": 15,
+          "name": "Torta Mexicana",
+          "description":
+              "Torta de jamón de pavo y queso panela a la plancha, con pico de gallo, tocino, guacamole y mayostaza.",
+          "price": 179,
+          "stars": 2,
+          "img": "assets/image/super5.png",
+          "type": "Sandwich",
+          "typeId": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "restaurantName": "Starbucks",
+      "description":
+          "The world's largest coffeehouse chain.",
+      "stars": 5,
+      "distance": 5.6,
+      "time": 9,
+      "img": "assets/image/restaurant4.png",
+      "availability": "Normal",
+      "comments": 143,
+      "menu-items": 5,
+      "products": [
+        {
+          "id": 11,
+          "name": "Espresso Americano",
+          "description":
+              "Los shots de espresso cubiertos con agua caliente crean una ligera capa de crema que culmina en esta taza de maravillosa profundidad.",
+          "price": 39,
+          "stars": 5,
+          "img": "assets/image/star1.png",
+          "type": "Coffe",
+          "typeId": 1
+        },
+        {
+          "id": 12,
+          "name": "Latte Macchiato",
+          "description":
+              "Leche perfectamente vaporizada, recibe los característicos shots de ristretto, de nuestro intenso espresso.",
+          "price": 49,
+          "stars": 3,
+          "img": "assets/image/star2.png",
+          "type": "Coffe",
+          "typeId": 2
+        },
+        {
+          "id": 13,
+          "name": "Mocha Blanco",
+          "description":
+              "Nuestro característico espresso se combina con salsa de chocolate blanco, leche al vapor y crema batida.",
+          "price": 46,
+          "stars": 4,
+          "img": "assets/image/star3.png",
+          "type": "Coffe",
+          "typeId": 3
+        },
+        {
+          "id": 14,
+          "name": "Cappuccino",
+          "description":
+              "Intenso espresso bajo la capa gruesa y espumosa de leche cuidadosamente vaporizada.",
+          "price": 36,
+          "stars": 5,
+          "img": "assets/image/star4.png",
+          "type": "Coffe",
+          "typeId": 4
+        },
+        {
+          "id": 15,
+          "name": "Chocolate Caliente",
+          "description":
+              "Leche vaporizada combinada con salsa de chocolate y vainilla, cubierto con crema batida.",
+          "price": 59,
+          "stars": 4,
+          "img": "assets/image/star5.png",
+          "type": "Coffe",
+          "typeId": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "restaurantName": "Carls Jr",
+      "description":
+          "Known for our iconic charbroiled burgers.",
+      "stars": 3,
+      "distance": 1.2,
+      "time": 13,
+      "img": "assets/image/restaurant5.png",
+      "availability": "Bussy",
+      "comments": 2368,
+      "menu-items": 5,
+      "products": [
+        {
+          "id": 11,
+          "name": "Famous Star",
+          "description":
+              "Charbroiled all-beef patty, melted American cheese, lettuce, tomato, sliced onions, and mayonnaise on a seeded bun.",
+          "price": 159,
+          "stars": 4,
+          "img": "assets/image/carls1.jpeg",
+          "type": "Burger",
+          "typeId": 1
+        },
+        {
+          "id": 12,
+          "name": "Western Bacon",
+          "description":
+              "Charbroiled all-beef patty, two strips of bacon, melted American cheese, crispy onion rings.",
+          "price": 119,
+          "stars": 5,
+          "img": "assets/image/carls2.jpeg",
+          "type": "Burger",
+          "typeId": 2
+        },
+        {
+          "id": 13,
+          "name": "Big Carl",
+          "description":
+              "Two charbroiled all- beef patties, our Classic Sauce, two slices of American cheese, and lettuce all on a seeded bun.",
+          "price": 139,
+          "stars": 3,
+          "img": "assets/image/carls3.jpeg",
+          "type": "Burger",
+          "typeId": 3
+        },
+        {
+          "id": 14,
+          "name": "Chicken Sandwich",
+          "description":
+              "Premium, all-white chicken fillet, hand dipped in buttermilk, lightly breaded and fried to a golden brown.",
+          "price": 149,
+          "stars": 5,
+          "img": "assets/image/carls4.jpeg",
+          "type": "Sandwich",
+          "typeId": 4
+        },
+        {
+          "id": 15,
+          "name": "Chicken Stars",
+          "description":
+              "Crispy star-shaped chicken nuggets with the choice of dipping sauce. Served with small drink and small fry.",
+          "price": 79,
+          "stars": 4,
+          "img": "assets/image/carls5.jpeg",
+          "type": "Burger",
+          "typeId": 5
+        }
+      ]
+    }
+  ]
